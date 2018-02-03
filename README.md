@@ -1,0 +1,2 @@
+# thing
+The Thing Project
